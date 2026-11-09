@@ -1,0 +1,2 @@
+- Alumno: Aarón Zaragoza García
+- Grupo: 2º SMR
